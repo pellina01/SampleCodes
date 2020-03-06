@@ -1,5 +1,5 @@
 # SampleCodes
 Lesson ni sir dalisay
 2A & 2B ECE ladderized
-lagyan ng .py sa dulo
-tinanggal ko ung extension trip ko lang
+sinama ko na yung mga activity kay sir arroyo
+
